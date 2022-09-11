@@ -1,0 +1,10 @@
+{
+    "name" : "Example_Announcer",
+    "author" : "HntonAand",
+    "version_number": "1.0.0",
+    "dependencies": [
+        "Potatoes-Potatoes_TNH_BGM_Loader-3.1.0"
+    ],
+    "description": "Example Announcer",
+    "website_url": ""
+}
