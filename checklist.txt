@@ -8,11 +8,7 @@ encryption_swarm_*.wav - the ones that have 3 pyramids on one center
 example_*.wav - used when announcer is selected on PTNHBGML panel in lobby
 game_end_*.wav - played in ending zone, big dead air?
 game_intro_*.wav - played on spawn
-hold_advance_0_*.wav - plays after winning and leaving first hold
-hold_advance_1_*.wav - same above but 2nd
-hold_advance_2_*.wav - same above but 3rd
-hold_advance_3_*.wav - same above but 4th
-hold_advance_4_*.wav - same above but 5th?
+hold_advance_(0/1/2/3/4)_*.wav - plays after finishing that hold and leaving, ~2 seconds dead air
 hold_encryption_win_0_*.wav - plays when all encryptions in a wave killed
 hold_encryption_win_1_*.wav - not sure how this differs from above
 hold_failure_0_*.wav - plays when you epic gamer fail moment
