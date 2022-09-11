@@ -1,0 +1,45 @@
+encryption_agile_*.wav - the lil yellow ones that move around
+encryption_hardened_*.wav - the ones that have the armor cubes
+encryption_recursive_*.wav - the ones that add new hitboxes if you hit the center
+encryption_regen_*.wav - the boss one that regrows itself
+encryption_static_*.wav - the basic simple red diamonds
+encryption_stealth_*.wav - the ones that are invisible but shimmer
+encryption_swarm_*.wav - the ones that have 3 pyramids on one center
+example_*.wav - used when announcer is selected on PTNHBGML panel in lobby
+game_end_*.wav - played in ending zone, big dead air?
+game_intro_*.wav - played on spawn
+hold_advance_0_*.wav - plays after winning and leaving first hold
+hold_advance_1_*.wav - same above but 2nd
+hold_advance_2_*.wav - same above but 3rd
+hold_advance_3_*.wav - same above but 4th
+hold_advance_4_*.wav - same above but 5th?
+hold_encryption_win_0_*.wav - plays when all encryptions in a wave killed
+hold_encryption_win_1_*.wav - not sure how this differs from above
+hold_failure_0_*.wav - plays when you epic gamer fail moment
+hold_failure_1_*.wav - plays when you epic gamer fail moment but not sure how it differs from above
+hold_failure_2_*.wav - plays when you epic gamer fail moment but not sure how it differs from above
+hold_intro_*.wav - plays when touching system core to start hold
+hold_next_layer_*.wav - plays when wave counter ticks over shortly after all encryptions killed
+hold_reminder_early_(0/1/2)_*.wav - plays when encryption clock hits one minute?
+hold_reminder_late_(0/1/2)_*.wav - plays at 30 seconds left
+hold_win_*.wav - plays when you epic gamer win moment
+loot_token1_*.wav - plays when collecting a loose token or recycling a weapon
+loot_token(2/3/4/5)_*.wav - plays when awarded that number of tokens from a hold
+
+
+OPTIONAL:
+hold_analyze.wav - I think this would play on first sosig spawn during hold. If not used, just make it one second of silence.
+
+
+UNUSED, just don't touch them:
+core_destroyed.wav
+core_exposed.wav
+encryption_casacding.wav
+encyption_orthagonal.wav
+encryption_polymorphic.wav
+encryption_refractive.wav
+encryption_unknown_*.wav
+game_lose_connection_*.wav
+loot_regen.wav
+loot_resource.wav
+loot_tool.wav

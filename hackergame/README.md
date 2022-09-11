@@ -1,1 +1,3 @@
-# Example Announcer
+You and a friend decide to play an asymmetric co-op game. You put on the VR headset and they guide you from a computer. Simple, right? It should be - but you disappear from thin air as soon as you put the goggles on. Can your friend find a way to get you out of the machine or will you be lost forever?
+
+A TnH announcer revolving around this concept of you being stuck in the game and trying to find a way out. Voice acting by yours truly cause I do all my own stunts and stunting. I got the idea to do this somewhat down-to-Earth announcer from Lt. Trip at https://h3vr.thunderstore.io/package/Triple/Lieutenant_Trip_TNH_Announcer_PTNHBGML/ but wanted to add a little *roleplaying* to it if you will. Please forgive me lol. And reach out to me on the H3 Homebrew Discord mostcallmeliz#2873 if you find a placeholder line or just have a suggestion.
