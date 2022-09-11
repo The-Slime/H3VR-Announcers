@@ -1,0 +1,7 @@
+version: 1
+
+assets:
+    setup:
+      - path: announceryamlfest.yaml #point to directory
+        plugin: dll.potatoes.ptnhbgml
+        loader: tnhannouncer
