@@ -1,6 +1,7 @@
-hold_analyze_trouble.wav - Okay, here comes trouble!
+hold_analyze_trouble.wav - Here comes trouble!
 hold_analyze_watchout.wav - Watch out, they're here!
 hold_analyze_eyesup.wav - Eyes up!
+hold_analyze_bain.wav - Don't die!
 
 encryption_agile_fast.wav - Wow, these things are fast! And they're blocking me! Knock 'em out!
 encryption_agile_agile.wav - System says these are called agile - good name for 'em! Take them down so I can get back to it!
@@ -38,7 +39,7 @@ game_intro.wav - Hey! Hey, tell me you can hear me! Jesus, you put the goggles o
 
 hold_advance_0.wav - Okay, uh, try to find some equipment you can use. I get the feeling this is gonna get worse before it gets better.
 hold_advance_1.wav - You need to find some better gear! Don't get on your skill run shtick, your life is on the line!
-hold_advance_2.wav - Made it out of that in one piece! Great, now gear up.
+hold_advance_2.wav - Made it out of that in one piece! Great, now gear up. And watch out for patrols.
 hold_advance_3.wav - Okay, good, go find something useful now before more of them show up.
 hold_advance_4.wav - Hey, good work, go find gear now. Make use of the time.
 
@@ -57,5 +58,25 @@ hold_intro_getstarted.wav - Okay, let's make this quick, trouble must be inbound
 
 hold_next_layer_trouble.wav - More trouble coming, be ready!
 hold_next_layer_fight.wav - Another fight coming up soon, get ready!
-hold_next_layer_meat.wav - More meat inbound! Reload!
+hold_next_layer_meat.wav - More meat inbound! Get reloaded!
 
+hold_reminder_early_0.wav - Watch the clock! You don't get this done soon, it's not getting done at all!
+hold_reminder_early_1.wav - Time check! Get the encryptions!
+hold_reminder_early_2.wav - Come on, get the encryptions before I get locked out!
+
+hold_reminder_late_0.wav - You gotta get the encryptions like right now or it's over!
+hold_reminder_late_1.wav - Shoot the encryptions! There's no time!
+hold_reminder_late_2.wav - What the hell are you doing in there? Get the encryptions!
+
+hold_win_sucks.wav - Hah, sucks to suck, freaky hot dog things! Okay, serious, that was good.
+hold_win_wrap.wav - And that's a wrap! Good shooting, like seriously, were you in the army?
+hold_win_getsome.wav - Get some, sausage freaks! Well done, well done.
+
+loot_token1_useful.wav - That looks useful.
+loot_token1_goodfind.wav - Good find.
+loot_token1_usethat.wav - Let's put that to use.
+
+loot_token2.wav - 2 tokens, get them to a shop and maybe we can get something out of them.
+loot_token3.wav - 3 tokens, great, spend them wisely.
+loot_token4.wav - 4 tokens, hell yeah, get to the shop!
+loot_token5.wav - 5 tokens, wow, don't spend them all in one place now.
