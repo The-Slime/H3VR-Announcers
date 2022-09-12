@@ -29,3 +29,33 @@ encryption_stealth_findit.wav - Is there anything there? Something's blocking me
 encryption_swarm_littleones.wav - Woah, lots of little ones close together! Gotta get all of them!
 encryption_swarm_clusters.wav - Clusters of them! All close together! Should make it easy!
 encryption_swarm_swat.wav - A whole lot of small targets! Swat them out of the sky!
+
+example.wav (no radio effects) - Yeah, I'm ready over here, put the helmet on!
+
+game_end.wav - Jesus...I think it's over now...I'm never gonna eat a hot dog again! I'll pull you out...
+
+game_intro.wav - Hey! Hey, tell me you can hear me! Jesus, you put the goggles on and just disappeared! But everything looks normal on my end. This is really freaky...okay, look, just find whatever equipment you can and get moving. I'll work on finding a way to make you...uh...exist? Again?
+
+hold_advance_0.wav - Okay, uh, try to find some equipment you can use. I get the feeling this is gonna get worse before it gets better.
+hold_advance_1.wav - You need to find some better gear! Don't get on your skill run shtick, your life is on the line!
+hold_advance_2.wav - Made it out of that in one piece! Great, now gear up.
+hold_advance_3.wav - Okay, good, go find something useful now before more of them show up.
+hold_advance_4.wav - Hey, good work, go find gear now. Make use of the time.
+
+hold_encryption_win_0_backatit.wav - Good, that worked, I'm back at it! Be ready for more!
+hold_encryption_win_0_smooth.wav - Smooth, real smooth, I'm back in business!
+hold_encryption_win_1_working.wav - Hey, that worked, so I'm working again! Keep at it!
+hold_encryption_win_1_moving.wav - Good, good, we're moving again! Stand by!
+
+hold_failure_0.wav - (fading out) No, no no no, almost had it! Hold on, hold on, I'm trying...(static before cut)
+hold_failure_1.wav - Oh, oh no, hold on, I'm losing it, I'm losing it! No no no-(cut)
+hold_failure_2.wav - Come on, come on, come on, I can't lose it now! Not now-(cut)
+
+hold_intro_guessthatsit.wav - Okay, I guess that's it, I'm getting to work, be ready!
+hold_intro_findcover.wav - I'm getting to it! Find cover, get ready for trouble!
+hold_intro_getstarted.wav - Okay, let's make this quick, trouble must be inbound!
+
+hold_next_layer_trouble.wav - More trouble coming, be ready!
+hold_next_layer_fight.wav - Another fight coming up soon, get ready!
+hold_next_layer_meat.wav - More meat inbound! Reload!
+

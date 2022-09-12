@@ -31,7 +31,7 @@ UNUSED, just don't touch them:
 core_destroyed.wav
 core_exposed.wav
 encryption_casacding.wav
-encyption_orthagonal.wav
+encryption_orthagonal.wav
 encryption_polymorphic.wav
 encryption_refractive.wav
 encryption_unknown_*.wav
