@@ -1,0 +1,31 @@
+hold_analyze_trouble.wav - Okay, here comes trouble!
+hold_analyze_watchout.wav - Watch out, they're here!
+hold_analyze_eyesup.wav - Eyes up!
+
+encryption_agile_fast.wav - Wow, these things are fast! And they're blocking me! Knock 'em out!
+encryption_agile_agile.wav - System says these are called agile - good name for 'em! Take them down so I can get back to it!
+encryption_agile_speedy.wav - So speedy I can barely track them! How's your aim? Good, I hope!
+
+encryption_hardened_middle.wav - I think I see some red in the middle! Like the soft ones! Aim for the middle!
+encryption_hardened_brick.wav - It's a brick! Did you bring a hammer? Or bullets, bullets are also good!
+encryption_hardened_hardened.wav - System calls these hardened, but they can't be too hard! Knock 'em out!
+
+encryption_recursive_recursive.wav - System says these are recursive...I dunno what that means! Just, when in doubt, shoot red!
+encryption_recursive_red.wav - What the heck is that? Screw it, just shoot the red pieces and hope for the best!
+encryption_recursive_flower.wav - It's like a flower, I think! Pick the petals, avoid the middle! Emphasis on I THINK!
+
+encryption_regen_bigone.wav - FREEDOM! Let's get you out of th...hold that thought, big one, big one!
+encryption_regen_laststand.wav - Last stand! You take out that big scary red thing and I might be able to get you out of there!
+encryption_regen_believe.wav - You got guns, ammo, grenades, health, but most of all you got skill! I believe in you - now go! Finish it!
+
+encryption_static_blocking.wav - Hey, those red diamond things are blocking me somehow! Can you take them out?
+encryption_static_diamonds.wav - Those diamonds are in the way! Shoot 'em or something!
+encryption_static_progress.wav - I can't make progress with those red things around! Can you get them out of the way?
+
+encryption_stealth_cantsee.wav - System is blocked but I can't see anything! There must be something! Look close!
+encryption_stealth_nothing.wav - There's nothing there, but there must be something! Invisible, maybe? Hunt them down!
+encryption_stealth_findit.wav - Is there anything there? Something's blocking me! Find it!
+
+encryption_swarm_littleones.wav - Woah, lots of little ones close together! Gotta get all of them!
+encryption_swarm_clusters.wav - Clusters of them! All close together! Should make it easy!
+encryption_swarm_swat.wav - A whole lot of small targets! Swat them out of the sky!
