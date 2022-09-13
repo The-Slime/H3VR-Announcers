@@ -48,7 +48,7 @@ hold_encryption_win_0_smooth.wav - Smooth, real smooth, I'm back in business!
 hold_encryption_win_1_working.wav - Hey, that worked, so I'm working again! Keep at it!
 hold_encryption_win_1_moving.wav - Good, good, we're moving again! Stand by!
 
-hold_failure_0.wav - (fading out) No, no no no, almost had it! Hold on, hold on, I'm trying...(static before cut)
+hold_failure_0.wav - No, no no no, almost had it! Hold on, hold on, I'm trying-(cut)
 hold_failure_1.wav - Oh, oh no, hold on, I'm losing it, I'm losing it! No no no-(cut)
 hold_failure_2.wav - Come on, come on, come on, I can't lose it now! Not now-(cut)
 
