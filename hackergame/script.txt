@@ -79,4 +79,4 @@ loot_token1_usethat.wav - Let's put that to use.
 loot_token2.wav - 2 tokens, get them to a shop and maybe we can get something out of them.
 loot_token3.wav - 3 tokens, great, spend them wisely.
 loot_token4.wav - 4 tokens, hell yeah, get to the shop!
-loot_token5.wav - 5 tokens, wow, don't spend them all in one place now.
+loot_token5.wav - 5 tokens, wow, don't spend them all in one place now. Or do.
