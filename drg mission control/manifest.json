@@ -1,7 +1,7 @@
 {
     "name" : "TNH_Announcer_DRG_Mission_Control",
     "author" : "Liz",
-    "version_number": "1.0.0",
+    "version_number": "1.0.1",
     "dependencies": [
         "Potatoes-Potatoes_TNH_BGM_Loader-3.1.0"
     ],
